@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Move : MonoBehaviour
+public class MoveOfTransform : MonoBehaviour
 {
     private float moveSpeed = 5.0f;                 //이동 속도
     private Vector3 moveDirection = Vector3.zero;   //이동 방향    
